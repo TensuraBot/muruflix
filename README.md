@@ -1,4 +1,4 @@
-# Kumanime - Streaming Anime Sub Indo Gratis 🍿🐨
+# RimuruFlix - Streaming Anime Sub Indo Gratis 💙💧
 
 Selamat datang di Kumanime, tempatnya nonton anime kesukaanmu dengan mudah dan nyaman! 🎉
 

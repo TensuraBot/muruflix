@@ -1,10 +1,10 @@
-# RimuruFlix - Streaming Anime Sub Indo Gratis 💙💧
+# muruflix - Streaming Anime Sub Indo Gratis 💙💧
 
 Selamat datang di Kumanime, tempatnya nonton anime kesukaanmu dengan mudah dan nyaman! 🎉
 
 ## Pengenalan
 
-Kumanime adalah platform streaming anime subtitle Indonesia gratis yang bersumber dari [Otakudesu-API](https://github.com/rakarmp/unofficial-otakudesu-api) dan dibuat menggunakan [ReactJS](https://react.dev) dan [TailwindCSS](https://tailwindcss.com).
+murufkix adalah platform streaming anime subtitle Indonesia gratis yang bersumber dari [Otakudesu-API](https://github.com/rakarmp/unofficial-otakudesu-api) dan dibuat menggunakan [ReactJS](https://react.dev) dan [TailwindCSS](https://tailwindcss.com).
 
 ## Preview
 
@@ -16,13 +16,13 @@ Kumanime adalah platform streaming anime subtitle Indonesia gratis yang bersumbe
 
 - **User Friendly Interface:** UI yang bersih membuat navigasi di Kumanime menjadi lebih mudah dan santai. Tidak ada lagi kebingungan ketika akan menonton anime!.
 
-- **Responsive Design:** Kumanime siap menemanimu di berbagai perangkat.
+- **Responsive Design:** Rimuru siap menemanimu di berbagai perangkat.
 
 
 ## Credits
 
 [Otakudesu-API](https://github.com/rakarmp/unofficial-otakudesu-api)
 
-## Support Me
+## Report Bug?
 
-[Saweria](https://saweria.co/Mastay)
+[WhatsApp](https://wa.me/6285279522326)

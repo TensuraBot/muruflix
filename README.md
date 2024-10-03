@@ -8,7 +8,7 @@ Kumanime adalah platform streaming anime subtitle Indonesia gratis yang bersumbe
 
 ## Preview
 
-<img src="https://raw.githubusercontent.com/MastayY/kumanime/main/preview.png" />
+<img src="https://github.com/TensuraBot/muruflix/blob/main/public/rimuru-flix.png" />
 
 ## Fitur
 

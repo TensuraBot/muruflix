@@ -2,7 +2,7 @@ import axios from "axios";
 
 export const getLatestAnime = async () => {
     try {
-        const response = await axios.get("https://otakuanime-ten.vercel.app");
+        const response = await axios.get("https://otakudesu-unofficial-api.vercel.app/v1/home");
         return response.data;
     } catch (error) {
         return error.message;
@@ -29,7 +29,7 @@ export const getAnimeNewsDetail = async (id) => {
 
 export const getEpisodeDetails = async (slug) => {
     try {
-        const response = await axios.get(`https://otakudesu-unofficial-api.vercel.app/v1/episode/${slug}`);
+        const response = await axios.get(`https://otakudesu-unofficial-api.vercel.app/v1/${slug}`);
         return response.data;
     } catch (error) {
         return error.message;

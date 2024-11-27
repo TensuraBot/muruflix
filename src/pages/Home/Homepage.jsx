@@ -108,11 +108,11 @@ const Homepage = () => {
                                             return(
                                                 <div className="swiper-slide" key={index}>
                                                     <Card
-                                                        imgUrl={data.thumb}
+                                                        imgUrl={data.poster}
                                                         title={data.title}
                                                         href={`/watch/${data.epsSlug}`}
                                                         rating={`☆ ${data.score || "0"}`}
-                                                        episode={`Episode ${data.episode}`}
+                                                        episode={`Episode ${data.current_episode}`}
                                                     />
                                                 </div>
                                             )
@@ -131,10 +131,10 @@ const Homepage = () => {
                                             return (
                                                 <Card
                                                     key={index}
-                                                    imgUrl={data.thumb}
+                                                    imgUrl={data.poster}
                                                     title={data.title}
                                                     href={`/anime/${data.id}`}
-                                                    episode={data.episode}
+                                                    episode={data.current_episode}
                                                     rating="Baru"
                                                 />
                                             )
@@ -154,7 +154,7 @@ const Homepage = () => {
                                             return(
                                                 <div className="swiper-slide" key={index}>
                                                     <Card
-                                                        imgUrl={data.thumb}
+                                                        imgUrl={data.poster}
                                                         title={data.title}
                                                         href={`/anime/${data.id}`}
                                                         episode={data.episode.replace("Episode", " Episode")}

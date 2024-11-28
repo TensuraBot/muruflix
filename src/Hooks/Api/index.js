@@ -2,7 +2,7 @@ import axios from "axios";
 
 export const getLatestAnime = async () => {
     try {
-        const response = await axios.get("https://otakudesu-unofficial-api.vercel.app/v1/home");
+        const response = await axios.get("https://api-sukanime.vercel.app/home");
         return response.data;
     } catch (error) {
         return error.message;

@@ -65,7 +65,7 @@ export const getCompletedAnime = async (page) => {
 
 export const getOngoingAnime = async (page) => {
     try {
-        const response = await axios.get(`https://otakudesu-unofficial-api.vercel.app/v1/ongoing/page/${page}`);
+        const response = await axios.get(`https://wajik-anime-api.vercel.app/samehadaku/ongoing/page/${page}`);
         return response.data
     } catch (error) {
         return error.message;
